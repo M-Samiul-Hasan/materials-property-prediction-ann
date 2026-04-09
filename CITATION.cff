@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Materials Property Prediction using Artificial Neural Networks"
+message: "If you use this repository, please cite the project and the original dataset."
+type: software
+authors:
+  - family-names: "Mohammad Samiul"
+    given-names: "Hasan"
+repository-code: "https://github.com/your-username/materials-property-prediction"
+license: "MIT"
+
+references:
+  - type: dataset
+    authors:
+      - family-names: "Ali"
+        given-names: "Omar"
+    title: "DATA"
+    year: 2023
+    publisher: "Mendeley Data"
+    version: "V1"
+    doi: "10.17632/hthwb4nh83.1"
