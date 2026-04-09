@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Mohammad Samiul"
     given-names: "Hasan"
-repository-code: "https://github.com/your-username/materials-property-prediction"
+repository-code: "https://github.com/m-samiul-hasan/materials-property-prediction-ann"
 license: "MIT"
 
 references:
